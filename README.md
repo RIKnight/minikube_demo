@@ -93,4 +93,11 @@ Then use the ip address in your browser:
 http://<minikube ip>:30100
 ```
 
+## Shutting down
+Finish off your kubernetes session with:
+```
+minikube stop
+```
+
+
 
